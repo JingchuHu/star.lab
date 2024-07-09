@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-[!IMPORTANT]
-JOIN US/TALENT WANTED
+
 
 {% include section.html %}
 
