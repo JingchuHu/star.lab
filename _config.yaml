@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: JingchuHuDESCRIPTION=An engaging 1-3 sentence description of your lab.
+title: STAR LAB
 subtitle: 
 description: 
 header: images/background.jpg
@@ -8,7 +8,7 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@JingchuHuDESCRIPTION=An engaging 1-3 sentence description of your lab..com
+  email: hujingchu@gmail.com
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
   github: JingchuHuDESCRIPTION=An engaging 1-3 sentence description of your lab.
