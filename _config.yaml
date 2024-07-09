@@ -10,10 +10,8 @@ proofer: false
 links:
   email: hujingchu@gmail.com
   orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: JingchuHuDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: JingchuHuDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: JingchuHuDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  google-scholar: https://scholar.google.com/citations?user=zpynGCIAAAAJ&hl=en
+
 
 ### jekyll settings
 
