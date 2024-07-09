@@ -86,7 +86,7 @@ nav {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 30px;
+  gap: 40px;
   font-family: var(--heading);
   text-transform: uppercase;
 }
@@ -139,7 +139,7 @@ header[data-big] .title {
   font-size: var(--xxl);
 }
 header[data-big] .subtitle {
-  font-size: var(--large);
+  font-size: var(--xl);
   margin-right: 2em;
 }
 
