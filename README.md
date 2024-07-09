@@ -1,5 +1,5 @@
 
-# JingchuHuDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# STAR LAB
 
 Visit **[jingchuhu.github.io/star.lab](https://jingchuhu.github.io/star.lab)** 🚀
 
