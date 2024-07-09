@@ -29,13 +29,15 @@
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Research Interests"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- Research on the intervention effects and mechanisms of cognitive reappraisal on traumatic memories in college students and MDD patients based on the memory reconsolidation mechanism
+- Project on abnormal aversive reversal and its neurocomputational mechanisms in patients with anxiety disorders
+- Project on neurocomputational mechanisms and interventions for reward learning deficits in patients with depressive disorders
 
 {%
   include button.html
@@ -60,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
 
 {%
   include button.html
