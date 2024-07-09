@@ -7,15 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+JOIN US!
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="hujingchu@gmail.com"
+  link="hujingchu@gmail.com"
 %}
 {%
   include button.html
@@ -26,8 +24,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="Our location on GaoDe Maps for easy navigation"
+  link="https://surl.amap.com/1GnbKBG1B4Mk"
 %}
 
 {% include section.html %}
@@ -37,7 +35,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="罗湖分院"
 %}
 
 {% endcapture %}
@@ -47,7 +45,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="坪山分院"
 %}
 
 {% endcapture %}
@@ -57,21 +55,17 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+深圳康宁医院（罗湖分院）
+深圳市罗湖区翠竹路1080号(田贝地铁站D口步行360米)
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+深圳康宁医院（坪山分院）
+深圳市坪山区振碧路77号
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+EMAIL US AT hujingchu@gmail.com
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
