@@ -1,7 +1,7 @@
 ---
-name: John Doe
+name: Yiting Huang
 image: images/photo.jpg
-role: phd
+role: Research Assistant
 group: alum
 links:
   github: john-doe
