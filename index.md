@@ -10,7 +10,9 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- Development of novel interventions based on memory reconsolidation mechanisms (for MDD and PTSD)
+- Neurocomputational mechanisms on anxiety and depressive disorders
+- Public mental health research
 
 {%
   include button.html
