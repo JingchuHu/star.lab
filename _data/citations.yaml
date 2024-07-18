@@ -18,39 +18,37 @@
   file: orcid.yaml
   image: article20240314.jpg
 - id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+  title: "COVID-19 related stress during and one year after the first wave of the pandemic outbreak in China: 
+  \The role of social support and perceptions of the pandemic"
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Jingchu Hu
+  - Jiayu Liu
+  - Yiting Huang
+  - Zhiying Zheng
+  - Dongliang Yang
+  - Yunfei Zhou
+  - Jianhong Wang
+  publisher: Frontiers in Psychiatry
+  date: '2022-11-30'
+  link: https://doi.org/10.3389/fpsyt.2022.1009810
+  orcid: 0000-0002-6931-7845
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+  title: "COVID-19 Related Stress and Mental Health Outcomes 1 Year After the Peak of the Pandemic Outbreak in China: 
+  \the Mediating Effect of Resilience and Social Support"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Jingchu Hu
+  - Yiting Huang
+  - Jiayu Liu
+  - Zhiying Zheng
+  - Xiuhua Xu
+  - Yunfei Zhou
+  - Jianhong Wang
+  publisher: Frontiers in Psychiatry
+  date: '2022-02-20'
+  link: https://doi.org/10.3389/fpsyt.2022.828379
+  orcid: 0000-0002-6931-7845
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.01.05.522941
