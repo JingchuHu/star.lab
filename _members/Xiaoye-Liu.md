@@ -1,6 +1,6 @@
 ---
 name: Xiaoye Liu
-image: XiaoyeLiu/photo.jpg
+image: XiaoyeLiu.jpg
 description: Research Assistant
 role: 
 links:
