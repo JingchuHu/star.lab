@@ -46,8 +46,4 @@ nav:
 
 
 
-{% capture col3 %}
-EMAIL US AT star.laboratory@outlook.com
-{% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
