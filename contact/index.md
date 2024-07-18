@@ -12,14 +12,14 @@ nav:
 {%
   include button.html
   type="email"
-  text="hujingchu@gmail.com"
-  link="hujingchu@gmail.com"
+  text="star.laboratory@outlook.com"
+  link="star.laboratory@outlook.com"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="（+86）19865893459"
+  link="（+86）19865893459"
 %}
 {%
   include button.html
@@ -56,7 +56,7 @@ nav:
 
 {% capture col1 %}
 深圳康宁医院（罗湖分院）
-深圳市罗湖区翠竹路1080号(田贝地铁站D口步行360米)
+深圳市罗湖区翠竹路1080号
 {% endcapture %}
 
 {% capture col2 %}
@@ -65,7 +65,7 @@ nav:
 {% endcapture %}
 
 {% capture col3 %}
-EMAIL US AT hujingchu@gmail.com
+EMAIL US AT star.laboratory@outlook.com
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
