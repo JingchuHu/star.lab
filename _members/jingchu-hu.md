@@ -1,7 +1,7 @@
 ---
 name: Jingchu Hu
-image: images/photo.jpg
-role: pi
+image: images/Jingchuhu.jpg
+role: PI
 affiliation: Shenzhen Kangning Hospital
 aliases:
   - J.H. Hu
@@ -12,8 +12,8 @@ links:
 ---
 
 Hi our team is working on three main directions: 
-1. Memory reconsolidation mechanism
-2. Neurocomputational mechanisms and intervention in psychiatric symptoms
-3. Public health research
+1. Development of Reconsolidation-based novel approaches 
+2. Neurocomputational mechanisms and intervention in anxiety disorders and major depressive disorders
+3. Public mental health research
 
 Welcome to join us! 
