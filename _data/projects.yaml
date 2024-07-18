@@ -1,47 +1,27 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Memory Reconsolidation Mechanism
+  subtitle: Research on the intervention effects and mechanisms of cognitive reappraisal on traumatic memories in college students 
+  \and MDD patients based on the memory reconsolidation mechanism
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  description: This project focuses on the effects and underlying mechanisms of cognitive reappraisal 
+  \interventions on traumatic memories in college students. 
+  \Based on memory reconsolidation mechanisms, the research aims to modify the emotional impact of 
+  \traumatic memories and improve mental health outcomes. Various psychological experimental 
+  \techniques and brain imaging methods will be used to assess these interventions' effectiveness 
+  \and neural basis. This project is supported by the Ministry of Education Humanities and 
+  \Social Sciences Research Youth Fund and the Shenzhen Basic Research Natural Science Foundation.
 
-- title: Cool Package
-  subtitle: a subtitle
+
+- title: Aversive Reversal & Neurocomputational Mechanisms
+  subtitle: Project on abnormal aversive reversal and its neurocomputational mechanisms in patients with anxiety disorders
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  description: This project investigates the behavioral and neural mechanisms underlying abnormal fear reversal in patients with anxiety disorders. The research aims to identify specific neural pathways and biomarkers associated with fear reversal deficits using advanced neuroimaging techniques, neuromodulation, and psychological experimental methods with computational modeling (e.g., reinforcement learning). Findings from this study may contribute to the development of more accurate diagnoses and treatments for anxiety disorders. This project is funded by the Natural Science Foundation of China.
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Reward Learning & Neurocomputational Mechanisms
+  subtitle: Project on neurocomputational mechanisms and interventions for reward learning deficits in patients with depressive disorders
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+  description: This project investigates the neural computational mechanisms underlying reward learning deficits in patients with depressive disorders. Using a combination of neuroimaging, computational modeling, and non-invasive brain stimulation techniques, the study aims to elucidate how reward processing is disrupted in depression and to develop effective interventions to address these deficits. This project is funded by the Shenzhen Basic Research Natural Science Foundation.
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+
