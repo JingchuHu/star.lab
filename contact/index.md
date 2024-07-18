@@ -32,21 +32,10 @@ nav:
 
 {% capture col1 %}
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="罗湖分院"
-%}
 
 {% endcapture %}
 
 {% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="坪山分院"
-%}
 
 {% endcapture %}
 
@@ -54,15 +43,8 @@ nav:
 
 {% include section.html dark=true %}
 
-{% capture col1 %}
-深圳康宁医院（罗湖分院）
-深圳市罗湖区翠竹路1080号
-{% endcapture %}
 
-{% capture col2 %}
-深圳康宁医院（坪山分院）
-深圳市坪山区振碧路77号
-{% endcapture %}
+
 
 {% capture col3 %}
 EMAIL US AT star.laboratory@outlook.com
