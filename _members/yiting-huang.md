@@ -1,6 +1,7 @@
 ---
 name: Yiting Huang
 image: images/YitingHuang.jpg
+description: Research Assistant
 role: Research Assistant
 group: alum
 links:
