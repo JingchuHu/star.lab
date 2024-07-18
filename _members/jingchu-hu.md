@@ -2,7 +2,7 @@
 name: Jingchu Hu
 image: images/Jingchuhu.jpg
 role: PI
-affiliation: Shenzhen Kangning Hospital
+affiliation: Shenzhen Kangning Hospital, Shenzhen Mental Health Center; The Affiliated Mental Health Center, Southern University of Science and Technology
 aliases:
   - J.H. Hu
   - JH Hu
@@ -11,7 +11,7 @@ links:
   orcid: 00000-0002-6931-7845
 ---
 
-Hi our team is working on three main directions: 
+Hi! our team is working on three main directions: 
 1. Development of Reconsolidation-based novel approaches 
 2. Neurocomputational mechanisms and intervention in anxiety disorders and major depressive disorders
 3. Public mental health research
