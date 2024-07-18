@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Updates
 nav:
   order: 4
   tooltip:
