@@ -1,6 +1,6 @@
 ---
 name: Yiting Huang
-image: images/photo.jpg
+image: images/YitingHuang.jpg
 role: Research Assistant
 group: alum
 links:
@@ -9,4 +9,8 @@ links:
   
 ---
 
-Research Assistant at Shenzhen Kangning Hospital, with expertise in mental health, gender studies, quantitative research, decision-making, and behavioral science. 
+Yiting Huang is currently working as a Research Assistant in the Department of Anxiety Disorders at Shenzhen Kangning Hospital. She holds a Master of Arts in Psychology from New York University and a joint Bachelor of Science in Applied Psychology from Guangzhou University and Wesleyan College. Her academic and research endeavors have equipped her with a robust understanding of psychological statistics, research methods, and data-driven decision-making.
+
+At Kangning Hospital, she focuses on studying sexual orientation and mental health among Chinese young men, aging decision-making processes, and the impact of COVID-19 on mental health. Her work involves conducting thorough data cleaning and analysis, managing decision-making experiments, and performing complex computational models to derive insightful results. Additionally, she has co-authored several publications in esteemed journals like Frontiers in Psychiatry and the International Journal of Environmental Research and Public Health.
+
+Her skills extend to various statistical and analytical tools, including SPSS, Mplus, MATLAB, and R, which she employs to conduct rigorous research and provide actionable insights into mental health studies. She is passionate about advancing our understanding of psychological processes and contributing to the development of effective mental health interventions.
