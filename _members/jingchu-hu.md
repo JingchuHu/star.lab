@@ -11,9 +11,4 @@ links:
   orcid: 00000-0002-6931-7845
 ---
 
-Hi! our team is working on three main directions: 
-1. Development of Reconsolidation-based novel approaches 
-2. Neurocomputational mechanisms and intervention in anxiety disorders and major depressive disorders
-3. Public mental health research
-
-Welcome to join us! 
+Jingchu Hu is a research associate of Shenzhen Mental Health Center (Shenzhen Kangning Hospital, The Affiliated Mental Health Center, Southern University of Science and Technology). Jingchu's research focuses on the pathological psychological and neurological mechanisms of anxiety, fear, and traumatic memories, aiming to improve the diagnosis and treatment of patients. Using psychological experiments, brain imaging, non-invasive brain stimulation, and computational modeling, Jingchu develops novel interventions based on memory reconsolidation mechanisms for MDD and PTSD. The research also explores neurocomputational mechanisms in anxiety and depressive disorders and conducts public mental health surveys. The lab's projects include assessing reconsolidation-based cognitive reappraisal's efficacy on traumatic memories in depression, investigating the neural mechanisms of this intervention, and evaluating its long-term impact. Another project examines aversive/reward learning deficits in anxiety disorders/major depressive disorders and their clinical applications.
