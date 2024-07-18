@@ -16,7 +16,7 @@
   orcid: 0000-0002-6931-7845
   plugin: orcid.py
   file: orcid.yaml
-  image: article20240314.jpg
+  image: images/article20240314.jpg
 - id: doi:10.1101/2023.10.11.560955
   title: "COVID-19 related stress during and one year after the first wave of the pandemic outbreak in China: 
   \The role of social support and perceptions of the pandemic"
@@ -34,6 +34,7 @@
   orcid: 0000-0002-6931-7845
   plugin: orcid.py
   file: orcid.yaml
+  image: images/article20221130.jpg
 - id: doi:10.1093/nar/gkad289
   title: "COVID-19 Related Stress and Mental Health Outcomes 1 Year After the Peak of the Pandemic Outbreak in China: 
   \the Mediating Effect of Resilience and Social Support"
@@ -51,6 +52,7 @@
   orcid: 0000-0002-6931-7845
   plugin: orcid.py
   file: orcid.yaml
+  image: images/article20220220.jpg
 - id: doi:10.1101/2024.04.16.589786
   title: Dissociable memory modulation mechanisms facilitate fear amnesia at different timescales
   authors:
