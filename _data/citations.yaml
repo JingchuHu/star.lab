@@ -51,70 +51,48 @@
   orcid: 0000-0002-6931-7845
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1101/2024.04.16.589786
+  title: Dissociable memory modulation mechanisms facilitate fear amnesia at different timescales
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Ye Wang
+  - Yinmei Ni
+  - Zijian Zhu
+  - Jingchu Hu
+  - Daniela Schiller
+  - Jian Li
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2024-04-16'
+  link: https://doi.org/10.1101/2024.04.16.589786
+  orcid: 0000-0002-6931-7845
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1038/s42003-021-02120-2
+  title: Active suppression prevents the return of threat memory in humans
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Ye Wang
+  - Zijian Zhu
+  - Jingchu Hu
+  - Daniela Schiller
+  - Jian Li
+  publisher: Communications Biology
+  date: '2021-05-21'
+  link: https://doi.org/10.1038/s42003-021-02120-2
+  orcid: 0000-0002-6931-7845
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1038/s41598-020-69700-w
+  title: Delay discounting decisions are linked to temporal distance representations of world events across cultures
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Denise E Croote
+  - Baojun Lai
+  - Jingchu Hu
+  - Mark G Baxter
+  - Alison Montagrin
+  - Daniela Schiller
+  publisher: Scientific Reports
+  date: '2020-07-31'
+  link: https://doi.org/10.1038/s41598-020-69700-w
+  orcid: 0000-0002-6931-7845
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s13059-020-02021-3
