@@ -2,7 +2,7 @@
 name: Jingchu Hu
 image: images/Jingchuhu.jpg
 role: PI
-affiliation: Shenzhen Kangning Hospital, Shenzhen Mental Health Center; The Affiliated Mental Health Center, Southern University of Science and Technology
+affiliation: Principal Investigator
 aliases:
   - J.H. Hu
   - JH Hu
