@@ -13,9 +13,200 @@
   link: https://doi.org/gg2d7w
   orcid: 0000-0002-6931-7845
   jingchu-hu: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5772/65287
+  title: 'Gender Differences in PTSD: Susceptibility and Resilience'
+  authors:
+  - Jingchu Hu
+  - Biao Feng
+  - Yonghui Zhu
+  - Wenqing Wang
+  - Jiawei Xie
+  - Xifu Zheng
+  publisher: Gender Differences in Different Contexts
+  date: '2017-02-01'
+  link: https://doi.org/gt4tm2
   plugin: sources.py
-  file: sources-jingchuhu.yaml
-  image: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0226178.g001&type=large
+  file: sources.yaml
+- id: doi:10.1080/00918369.2015.1078651
+  title: Life Satisfaction, Self-Esteem, and Loneliness Among LGB Adults and Heterosexual
+    Adults in China
+  authors:
+  - Jingchu Hu
+  - Jize Hu
+  - Gang Huang
+  - Xifu Zheng
+  publisher: Journal of Homosexuality
+  date: '2015-08-05'
+  link: https://doi.org/gfrbk2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10566-017-9427-9
+  title: 'Predictors of Suicidal Ideation Among Children and Adolescents: Roles of
+    Mental Health Status and Meaning in Life'
+  authors:
+  - Ling Tan
+  - Jinglu Chen
+  - Tiansheng Xia
+  - Jingchu Hu
+  publisher: Child &amp; Youth Care Forum
+  date: '2017-11-18'
+  link: https://doi.org/gc637q
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10566-017-9427-9/MediaObjects/10566_2017_9427_Fig2_HTML.gif?
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00213-018-5074-6
+  title: Post-retrieval oxytocin facilitates next day extinction of threat memory
+    in humans
+  authors:
+  - Jingchu Hu
+  - Zijie Wang
+  - Xiaoyi Feng
+  - Cheng Long
+  - Daniela Schiller
+  publisher: Psychopharmacology
+  date: '2018-10-29'
+  link: https://doi.org/gkgdmb
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00213-018-5074-6/MediaObjects/213_2018_5074_Fig4_HTML.png?
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-020-69700-w
+  title: Delay discounting decisions are linked to temporal distance representations
+    of world events across cultures
+  authors:
+  - Denise E. Croote
+  - Baojun Lai
+  - Jingchu Hu
+  - Mark G. Baxter
+  - Alison Montagrin
+  - Daniela Schiller
+  publisher: Scientific Reports
+  date: '2020-07-31'
+  link: https://doi.org/gs5hpq
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-69700-w/MediaObjects/41598_2020_69700_Fig6_HTML.png?
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s42003-021-02120-2
+  title: Active suppression prevents the return of threat memory in humans
+  authors:
+  - Ye Wang
+  - Zijian Zhu
+  - Jingchu Hu
+  - Daniela Schiller
+  - Jian Li
+  publisher: Communications Biology
+  date: '2021-05-21'
+  link: https://doi.org/gnmwtw
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs42003-021-02120-2/MediaObjects/42003_2021_2120_Fig2_HTML.png?
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fpsyt.2022.1009810
+  title: 'COVID-19 related stress during and one year after the first wave of the
+    pandemic outbreak in China: The role of social support and perceptions of the
+    pandemic'
+  authors:
+  - Jingchu Hu
+  - Jiayu Liu
+  - Yiting Huang
+  - Zhiying Zheng
+  - Dongliang Yang
+  - Yunfei Zhou
+  - Jianhong Wang
+  publisher: Frontiers in Psychiatry
+  date: '2022-12-01'
+  link: https://doi.org/gtwp7c
+  image: https://www.frontiersin.org/files/Articles/1009810/fpsyt-13-1009810-HTML/image_m/fpsyt-13-1009810-g003.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3724/SP.J.1041.2017.00329
+  title: The effect of compound stimulus to conditioned fear extinction in retrieval-extinction
+    paradigm
+  authors:
+  - Chuqun ZHUANG
+  - Wenqing WANG
+  - Jingchu HU
+  - Weixin ZHANG
+  - Penggui WANG
+  - Xifu ZHENG
+  publisher: Acta Psychologica Sinica
+  date: '2017-01-01'
+  link: https://doi.org/gt3djk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.04.16.589786
+  title: Dissociable memory modulation mechanisms facilitate fear amnesia at different
+    timescales
+  authors:
+  - Ye Wang
+  - Yinmei Ni
+  - Zijian Zhu
+  - Jingchu Hu
+  - Daniela Schiller
+  - Jian Li
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-04-20'
+  link: https://doi.org/gtwp7g
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3724/SP.J.1041.2019.00316
+  title: "\u8FDC\u671F\u6050\u60E7\u8BB0\u5FC6\u518D\u5DE9\u56FA\u66F4\u65B0\u673A\
+    \u5236\u7684\u7EBF\u7D22\u9009\u62E9\u6027\u7279\u70B9"
+  authors:
+  - Jingchu HU
+  - Weixin ZHANG
+  - Xiaoting CHEN
+  - Wenqing WANG
+  - Zijie WANG
+  - Chuqun ZHUANG
+  - Biao FENG
+  - Xifu ZHENG
+  publisher: Acta Psychologica Sinica
+  date: '2019-03-01'
+  link: https://doi.org/gsb47n
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ibror.2019.07.044
+  title: Advances in understanding and clinical application of memory updating through
+    reconsolidation in humans
+  authors:
+  - Daniela Schiller
+  - Jingchu Hu
+  - Joana Singer Vermes
+  - Felipe Corchs
+  publisher: IBRO Reports
+  date: '2019-09-01'
+  link: https://doi.org/gtwp69
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ibror.2019.07.1007
+  title: Individual differences in adaptive threat learning are associated with differential
+    c-Fos expression in medial prefrontal cortex
+  authors:
+  - Jingchu Hu
+  - Xiaoyi Feng
+  - Luyao Wu
+  - Cheng Long
+  publisher: IBRO Reports
+  date: '2019-09-01'
+  link: https://doi.org/gt4tm3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-018-27252-0
+  title: Reminder duration determines threat memory modification in humans
+  authors:
+  - Jingchu Hu
+  - Wenqing Wang
+  - Philipp Homan
+  - Penggui Wang
+  - Xifu Zheng
+  - Daniela Schiller
+  publisher: Scientific Reports
+  date: '2018-06-11'
+  link: https://doi.org/gdr7ht
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-018-27252-0/MediaObjects/41598_2018_27252_Fig6_HTML.jpg?
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41593-018-0315-x
   title: Neural computations of threat in the aftermath of combat trauma
   authors:
@@ -35,7 +226,7 @@
   link: https://doi.org/gftpc5
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41593-018-0315-x/MediaObjects/41593_2018_315_Fig1_HTML.png?
   plugin: sources.py
-  file: sources-jingchuhu.yaml
+  file: sources.yaml
 - id: doi:10.3389/fpsyt.2024.1265722
   title: 'Understanding suicidal ideation disparity between sexual minority and heterosexual
     Chinese young men: a multiple mediation model of social support sources, self-esteem,
@@ -52,4 +243,35 @@
   link: https://doi.org/gtwp7f
   image: https://www.frontiersin.org/files/Articles/1265722/fpsyt-15-1265722-HTML/image_m/fpsyt-15-1265722-g001.jpg
   plugin: sources.py
-  file: sources-jingchuhu.yaml
+  file: sources.yaml
+- id: doi:10.3389/fpsyt.2022.828379
+  title: 'COVID-19 Related Stress and Mental Health Outcomes 1 Year After the Peak
+    of the Pandemic Outbreak in China: the Mediating Effect of Resilience and Social
+    Support'
+  authors:
+  - Jingchu Hu
+  - Yiting Huang
+  - Jiayu Liu
+  - Zhiying Zheng
+  - Xiuhua Xu
+  - Yunfei Zhou
+  - Jianhong Wang
+  publisher: Frontiers in Psychiatry
+  date: '2022-02-21'
+  link: https://doi.org/gpw9th
+  image: https://www.frontiersin.org/files/Articles/828379/fpsyt-13-828379-HTML/image_m/fpsyt-13-828379-g003.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/famp.12340
+  title: Relationship between Mental Health and Burden among Primary Caregivers of
+    Outpatients with Schizophrenia
+  authors:
+  - Wenjun Yu
+  - Jia Chen
+  - Jize Hu
+  - JingChu Hu
+  publisher: Family Process
+  date: '2018-01-24'
+  link: https://doi.org/gtwp7b
+  plugin: sources.py
+  file: sources.yaml
