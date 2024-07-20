@@ -13,7 +13,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Delay discounting decisions are linked to temporal distance representations of world events across cultures" style="rich" %}
+{% include citation.html lookup="Neural computations of threat in the aftermath of combat trauma" style="rich" %}
 
 {% include section.html %}
 
