@@ -1,5 +1,5 @@
 ---
-title: Join US
+title: Join US/被试招募
 nav:
   order: 5
   tooltip: Email, address, and location
