@@ -1,3 +1,39 @@
+- id: doi:10.5772/65287
+
+- id: doi:10.1080/00918369.2015.1078651
+
+- id: doi:10.1007/s10566-017-9427-9
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10566-017-9427-9/MediaObjects/10566_2017_9427_Fig2_HTML.gif?
+
+- id: doi:10.1007/s00213-018-5074-6
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00213-018-5074-6/MediaObjects/213_2018_5074_Fig4_HTML.png?
+
+- id: doi:10.1038/s41598-020-69700-w
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-69700-w/MediaObjects/41598_2020_69700_Fig6_HTML.png?
+
+- id: doi:10.1038/s42003-021-02120-2
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs42003-021-02120-2/MediaObjects/42003_2021_2120_Fig2_HTML.png?
+
+- id: doi:10.3389/fpsyt.2022.1009810
+  image: https://www.frontiersin.org/files/Articles/1009810/fpsyt-13-1009810-HTML/image_m/fpsyt-13-1009810-g003.jpg
+
+- id: doi:10.3724/SP.J.1041.2017.00329
+
+- id: doi:10.1101/2024.04.16.589786
+
+- id: doi:10.3724/SP.J.1041.2019.00316
+
+- id: doi:10.1016/j.ibror.2019.07.044
+
+- id: doi:10.1016/j.biopsych.2020.02.357
+
+- id: doi: 10.13294/j.aps.2019.0079
+
+- id: doi:10.1016/j.ibror.2019.07.1007
+
+- id: doi:10.1038/s41598-018-27252-0
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-018-27252-0/MediaObjects/41598_2018_27252_Fig6_HTML.jpg?
+
 - id: doi:10.1038/s41593-018-0315-x
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41593-018-0315-x/MediaObjects/41593_2018_315_Fig1_HTML.png?
 
@@ -6,3 +42,8 @@
 
 - id: doi:10.3389/fpsyt.2024.1265722
   image: https://www.frontiersin.org/files/Articles/1265722/fpsyt-15-1265722-HTML/image_m/fpsyt-15-1265722-g001.jpg
+
+- id: doi:10.3389/fpsyt.2022.828379
+  image: https://www.frontiersin.org/files/Articles/828379/fpsyt-13-828379-HTML/image_m/fpsyt-13-828379-g003.jpg
+
+- id: doi:10.1111/famp.12340
