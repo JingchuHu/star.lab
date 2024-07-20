@@ -12,6 +12,7 @@
   date: '2020-01-06'
   link: https://doi.org/gg2d7w
   orcid: 0000-0002-6931-7845
+  jingchu-hu: true
   plugin: sources.py
   file: sources-jingchuhu.yaml
   image: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0226178.g001&type=large
