@@ -13,8 +13,27 @@
   link: https://doi.org/gg2d7w
   orcid: 0000-0002-6931-7845
   plugin: sources.py
-  file: sources.yaml
+  file: sources-jingchuhu.yaml
   image: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0226178.g001&type=large
+- id: doi:10.1038/s41593-018-0315-x
+  title: Neural computations of threat in the aftermath of combat trauma
+  authors:
+  - Philipp Homan
+  - Ifat Levy
+  - Eric Feltham
+  - Charles Gordon
+  - Jingchu Hu
+  - Jian Li
+  - Robert H. Pietrzak
+  - Steven Southwick
+  - John H. Krystal
+  - Ilan Harpaz-Rotem
+  - Daniela Schiller
+  publisher: Nature Neuroscience
+  date: '2019-01-21'
+  link: https://doi.org/gftpc5
+  plugin: sources.py
+  file: sources-jingchuhu.yaml
 - id: doi:10.3389/fpsyt.2024.1265722
   title: 'Understanding suicidal ideation disparity between sexual minority and heterosexual
     Chinese young men: a multiple mediation model of social support sources, self-esteem,
@@ -31,4 +50,4 @@
   link: https://doi.org/gtwp7f
   image: https://www.frontiersin.org/files/Articles/1265722/fpsyt-15-1265722-HTML/image_m/fpsyt-15-1265722-g001.jpg
   plugin: sources.py
-  file: sources.yaml
+  file: sources-jingchuhu.yaml
