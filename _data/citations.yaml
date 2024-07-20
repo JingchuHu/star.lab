@@ -14,7 +14,7 @@
   orcid: 0000-0002-6931-7845
   plugin: sources.py
   file: sources.yaml
-  image: https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0226178.g001
+  image: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0226178.g001&type=large
 - id: doi:10.3389/fpsyt.2024.1265722
   title: 'Understanding suicidal ideation disparity between sexual minority and heterosexual
     Chinese young men: a multiple mediation model of social support sources, self-esteem,
