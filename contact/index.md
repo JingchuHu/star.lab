@@ -44,7 +44,7 @@ nav:
 {% capture col2 %}
 {%
   include figure.html
-  image="images/logo.jpg"
+  image="images/logo.png"
   caption="Join Us-心理学暑期实习生
   
 【招募项目】：南方科技大学附属精神卫生中心国家自然科学基金项目
