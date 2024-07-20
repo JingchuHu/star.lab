@@ -27,7 +27,7 @@
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/researchinterests.png"
   link="research"
   title="Research Interests"
   text=text
@@ -52,7 +52,7 @@
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -77,7 +77,7 @@
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.png"
   link="team"
   title="Our Team"
   text=text
