@@ -33,7 +33,7 @@ nav:
 {% capture col1 %}
 {%
   include figure.html
-  image="images/participant.jpg"
+  image="images/participantss.png"
   
 caption="被试招募-国家自然科学基金项目焦虑障碍患者招募信息
   
@@ -53,7 +53,9 @@ caption= "心理学暑期实习生
 请按“应聘-科研项目实习生-姓名-心理学人”的邮件主题将个人简历发送至：
 邮箱：star.laboratory@outlook.com
 投简历截止时间：2024年7月30日；
-面试方式：线上腾讯会议面试；面试成功一周内到岗"
+面试方式：线上腾讯会议面试；面试成功一周内到岗
+（本次实习不提供住宿，但是以后star lab会尽力争取）
+"
 %}
 
 {% endcapture %}
