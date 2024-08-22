@@ -2,7 +2,6 @@
   subtitle: "Research on the intervention effects and mechanisms of cognitive reappraisal on traumatic memories in college students and MDD patients based on the memory reconsolidation mechanism"
   group: featured
   image: "images/projectss.jpg"
-  link:
   description: This project focuses on the effects and underlying mechanisms of cognitive reappraisal interventions on traumatic memories in college students. Based on memory reconsolidation mechanisms, the research aims to modify the emotional impact of traumatic memories and improve mental health outcomes. Various psychological experimental techniques and brain imaging methods will be used to assess these interventions' effectiveness and neural basis. This project is supported by the Ministry of Education Humanities and Social Sciences Research Youth Fund and the Shenzhen Basic Research Natural Science Foundation.
 
 
@@ -21,7 +20,7 @@
   description: This project investigates the neural computational mechanisms underlying reward learning deficits in patients with depressive disorders. Using a combination of neuroimaging, computational modeling, and non-invasive brain stimulation techniques, the study aims to elucidate how reward processing is disrupted in depression and to develop effective interventions to address these deficits. This project is funded by the Shenzhen Basic Research Natural Science Foundation.
 
 - title: "COVID-19 related Mental Health"
-  subtitle: "Project on psychological mechanisms and interventions for the mental effects of the COVID-19 pandemic across different sociodemographics including gender, sexuality, age, work conditions and others."
+  subtitle: "Project on psychological mechanisms and interventions for the mental effects of the COVID-19 pandemic across different sociodemographics including gender, sexuality, age, work conditions, and others."
   group: featured
   image: "images/article20220220.jpg"
   link: https://osf.io/g2eup/
