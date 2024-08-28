@@ -23,6 +23,12 @@ nav:
 %}
 {%
   include button.html
+  type="wechat"
+  text="WeChat: 13691915415"
+  link="WeChat: 13691915415"
+%}
+{%
+  include button.html
   type="address"
   tooltip="Our location on GaoDe Maps for easy navigation"
   link="https://surl.amap.com/1GnbKBG1B4Mk"
