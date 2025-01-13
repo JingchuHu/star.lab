@@ -53,8 +53,7 @@ caption="被试招募-国家自然科学基金项目焦虑障碍患者招募信�
 {%
   include figure.html
   image="images/logo.png"
-  link="[http://mp.weixin.qq.com/s?__biz=MzI4MDAzMDQ3NA==&mid=2924715392&idx=1&sn=2ab43b5d992bdeca501747e244e789b9&chksm=c01981e5f76e08f3b856721989ee91a4e53c5bdc858201240c3903031a6cb4f12b381ac12852&mpshare=1&scene=1&srcid=0703E8NX9pWRiVqGMeBSP9UY&sharer_shareinfo=3fe75e5160fec273226acbdbffdb148d&sharer_shareinfo_first=3402d22165f13608493072ccef28688a#rd](https://mp.weixin.qq.com/s/pfPj66OJ8YFv7KwVKzo9cw)"
-caption= "心理学实习生
+  link="https://mp.weixin.qq.com/s/pfPj66OJ8YFv7KwVKzo9cw"
 【详情请点击上图链接】
 请按“应聘-科研项目实习生-姓名-心理学人”的邮件主题将个人简历发送至：
 邮箱：star.laboratory@outlook.com
