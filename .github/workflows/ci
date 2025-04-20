@@ -1,0 +1,21 @@
+# 文件名: .github/workflows/ci.yml
+name: CI
+
+on: [push]  # 触发条件：每次 push 时运行
+
+jobs:
+  test:
+    runs-on: ubuntu-latest  # 运行环境
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4  # 检出代码
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.1
+
+      - name: Run Rake
+        run: bundle exec rake
+        working-directory: ./  # 指定工作目录为仓库根目录
