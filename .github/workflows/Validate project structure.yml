@@ -1,0 +1,33 @@
+name: Rake CI
+on: [push, pull_request]
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      # 强制完整检出代码（解决路径问题）
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 关键参数[5,6](@ref)
+
+      # Ruby环境配置（含缓存清理）
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.1.7
+          bundler-cache: false  # 禁用默认缓存
+
+      # 文件系统验证
+      - name: Validate files
+        run: |
+          echo "当前工作目录: $(pwd)"
+          ls -la | grep -E 'Rakefile|Gemfile'
+          if [ ! -f Rakefile ]; then
+            echo "::error::Rakefile 缺失！"
+            exit 1
+          fi
+
+      # 带调试信息的执行
+      - name: Run Rake with trace
+        run: |
+          bundle install --path vendor/bundle
+          bundle exec rake --trace
