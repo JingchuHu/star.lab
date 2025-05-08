@@ -1,0 +1,16 @@
+name: Rake Tasks Automation
+on: [push, workflow_dispatch]
+
+jobs:
+  run-rake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+      - name: Run Rake Tasks
+        run: |
+          bundle exec rake -T
+          bundle exec rake test
