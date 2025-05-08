@@ -1,0 +1,38 @@
+name: Rake CI
+
+on:
+  push:
+    branches: [ main ]
+    pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      # 步骤1：检出代码
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 必须！完整检出历史
+
+      # 步骤2：设置 Ruby 环境
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.1.7
+          bundler-cache: true
+
+      # 步骤3：验证关键文件存在
+      - name: Check Rakefile
+        run: |
+          echo "当前工作目录: $(pwd)"
+          ls -la
+          if [ ! -f Rakefile ]; then
+            echo "::error file=Rakefile::❌ Rakefile 未找到！"
+            exit 1
+          fi
+
+      # 步骤4：运行 Rake 任务
+      - name: Run Rake
+        working-directory: ./  # 强制指定根目录
+        run: bundle exec rake
